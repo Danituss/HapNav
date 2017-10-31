@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="HapNav_primary">#91ca6d</color>
+    <color name="HapNav_secondary">#dbc8a2</color>
+    <color name="HapNav_primaryDark">#6fa44e</color>
+    <color name="HapNav_secondaryDark">#b9a376</color>
 </resources>
